@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+test*
+.ruff_cache
+
+*.pdf 
+!/Lab*/*.pdf
