@@ -1,8 +1,10 @@
 # Digital Image Processing (Phân tích xử lý ảnh)
 - Textbook: 
     - Digital Image Processing, 4th, Rafael C. Gonzalez • Richard E. Wood
-    - Computer Vision: Algorithms and Applications, 2nd, Richard Szeliski
+    - [Computer Vision: Algorithms and Applications, 2nd, Richard Szeliski](https://szeliski.org/Book/)
 - Language: Python
+- Materials:
+    - Documentation of Numpy, Matplotlib, scikit-image, openCV
 
 ## Stuff
 Some fun stuff I have implemeted during this course:
@@ -16,11 +18,6 @@ Some fun stuff I have implemeted during this course:
 - Morphology
 - Geometric transformation
 - Image stitching
-
-## Materials
-- Documentation of Numpy, Matplotlib, scikit-image, openCV
-- [Computer Vision: Algorithms and Applications, 2nd ed.](https://szeliski.org/Book/)
-- Digital Image Processing 4th, Rafael C. Gonzalez • Richard E. Woods
 
 ## Miễn trừ trách nhiệm (Disclaimer)
 - Chỉ sử dụng cho mục đích tham khảo
